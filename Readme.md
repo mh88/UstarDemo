@@ -1,4 +1,4 @@
-react + ant design + ant design mobil for html layout
+react + ant design + ant design mobile for html layout
 
   |       |       |       |
   | :---: | ----- | ----- |
